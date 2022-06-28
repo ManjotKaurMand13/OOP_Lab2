@@ -1,0 +1,15 @@
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/bin/Debug/net6.0/OOPlab2
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/bin/Debug/net6.0/OOPlab2.deps.json
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/bin/Debug/net6.0/OOPlab2.runtimeconfig.json
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/bin/Debug/net6.0/OOPlab2.dll
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/bin/Debug/net6.0/OOPlab2.pdb
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/obj/Debug/net6.0/OOPlab2.csproj.AssemblyReference.cache
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/obj/Debug/net6.0/OOPlab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/obj/Debug/net6.0/OOPlab2.AssemblyInfoInputs.cache
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/obj/Debug/net6.0/OOPlab2.AssemblyInfo.cs
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/obj/Debug/net6.0/OOPlab2.csproj.CoreCompileInputs.cache
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/obj/Debug/net6.0/OOPlab2.dll
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/obj/Debug/net6.0/refint/OOPlab2.dll
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/obj/Debug/net6.0/OOPlab2.pdb
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/obj/Debug/net6.0/OOPlab2.genruntimeconfig.cache
+/Users/manjotkaurmand/Projects/OOPlab2/OOPlab2/obj/Debug/net6.0/ref/OOPlab2.dll
